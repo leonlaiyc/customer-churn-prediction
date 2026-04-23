@@ -1,0 +1,23 @@
+# Data and outputs
+/data/*.csv
+/output/
+*.npy
+submission_*.csv
+
+# Keep the placeholder file so the data folder exists in Git
+!data/.gitkeep
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
