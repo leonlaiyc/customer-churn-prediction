@@ -135,6 +135,7 @@ What I found most rewarding in this project was that every stage — from unders
 
 ## Repository Structure
 
+```text
 customer-churn-prediction/
 ├── data/
 │   └── .gitkeep
@@ -146,3 +147,4 @@ customer-churn-prediction/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
